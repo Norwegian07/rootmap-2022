@@ -1,0 +1,88 @@
+html,body{
+    background-color: lightgrey;
+}
+.vertical-line{
+width: 5px;
+height: 1600px;
+background-color: black;
+margin-left: 50%;
+}
+.one,.two,.three,.four,.five,.six,.seven,.eight{
+    width: 150px;
+    height: 5px;
+    background-color: black;
+    position: absolute;
+    margin-top: 25px;
+}
+.jan{
+    margin-top: -1550px;
+    margin-left: 50%;
+}
+.month1{
+    margin-left: 25px;
+    font-size: 24px;
+    margin-top: 20px;
+}
+.hustle,.business,.reach,.dollar{
+    border: 3px solid black;
+    border-radius: 35px;
+    width: 120px;
+    height: 25px;
+    text-align: center;
+    margin-left: 150px;
+    margin-top: -40px;
+    font-size: 22px;
+    background-color: white;
+    box-shadow: 5px 10px 15px;
+}
+.two{
+    width: 80px;
+    height: 5px;
+}
+.business{
+    margin-top: 32px;
+    margin-left: 78px;
+}
+.three{
+    width: 80px;
+}
+.reach{
+    margin-top: 32px;
+    margin-left: 78px;
+    width: 180px;
+}
+.four{
+    width: 80px;
+}
+.dollar{
+    width: 185px;
+    margin-top: 32px;
+    margin-left: 78px;
+}
+/* feb */
+.feb{
+    margin-left: 37%;
+}
+.five{
+    width: 200px;
+}
+.feb{
+    font-size: 24px;
+    font-weight: bold;
+}
+.six,.seven,.eight{
+    margin-left: 3%;
+}
+.reach-5000,.earn2,.js{
+    border: 3px solid black;
+    border-radius: 35px;
+    width: 120px;
+    height: 25px;
+    text-align: center;
+    font-size: 22px;
+    background-color: white;
+    box-shadow: 5px 10px 15px;
+    margin-left: -78px;
+    margin-top: 35px;
+    font-weight: normal;
+}
